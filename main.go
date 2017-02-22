@@ -8,7 +8,7 @@ import (
 	"time"
 )
 
-// DATABASE GECKO SCHEMES:
+// DATABASE VEHICLESCHEMES:
 type VehicleMongoScheme struct {
 	Name   string            `bson:"name" json:"name"`
 	Fields map[string]string `bson:"fields" json:"fields"`
