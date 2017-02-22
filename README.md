@@ -20,6 +20,7 @@ This code depends on a database called "test", which should contain a pre-filled
 		...
 	}
 }
+```
 
 
 -------------------
@@ -52,4 +53,5 @@ Install Go and MongoDB. Make sure MongoDB is running locally using the standard 
     "4": "Doors"
   }
 }
+```
 
