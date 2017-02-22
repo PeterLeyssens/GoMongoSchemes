@@ -40,8 +40,7 @@ Install Go and MongoDB. Make sure MongoDB is running locally using the standard 
 {
   "name": "Spacecraft",
   "fields": {
-    "1": "Name",
-    "2": "Country"
+    "1": "Country"
   }
 }
 {
